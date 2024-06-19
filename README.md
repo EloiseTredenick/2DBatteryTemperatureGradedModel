@@ -3,6 +3,8 @@
 
 **Please read the license details and copyright information below before downloading and using this data**
 
+%The following paper must be cited when using or modifying this code - Drummond, R., Tredenick, E.C., et al, 'Graded lithium-ion battery pouch cells to homogenise current distributions and mitigate lithium plating', 2024 (preprint).
+
 ******************************************************************************************
 These codes are copyright (c) 2024 The Chancellor, Masters and Scholars of the University of Oxford. All rights reserved. 
 
